@@ -1,3 +1,4 @@
 # jQuery-Simon-Game-Challenge
 
-#demo:
+# demo:
+https://seowyongtao.github.io/jQuery-Simon-Game-Challenge/
